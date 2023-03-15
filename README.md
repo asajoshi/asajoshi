@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asajoshi
 - 👀 I’m interested in learning new DevOps / Cloud technologgies.
-- 🌱 I’m currently learning Service mesh, crossplane, backstage, ArghoCD, etc.
+- 🌱 I’m currently learning Service mesh, crossplane, backstage, ArgoCD, etc.
 - 💞️ I’m looking to collaborate on Bakery team / Cloud Foundation
 - 📫 Reach me on slack / teams
 
